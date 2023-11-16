@@ -3,14 +3,10 @@ package ec.edu.ups.practica.dos.test;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Carrito;
-import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Electronico;
 import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Pedido;
-import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Producto;
-import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Ropa;
 import ec.edu.ups.practica.dos.bravo.valdiviezo.diego.Usuario;
-import ec.edu.ups.practicas.clases.Productodos;
+
 
 public class Principal {
 	

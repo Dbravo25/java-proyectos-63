@@ -4,7 +4,7 @@ package ec.edu.ups.practica.dos.bravo.valdiviezo.diego;
 
 public class Producto {
 	//Creamos los atributos de la clase producto y usamos protected 
-	//para que los atributos sea utilizados en las clases hijas (Electronico  y Ropa )
+	//para que los atributos sean utilizados en las clases hijas (Electronico  y Ropa )
 	protected String nombre; 
 	protected String marca;
 	protected int codigo;
